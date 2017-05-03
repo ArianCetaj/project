@@ -18,5 +18,7 @@ public class Project {
         System.out.println("pershendtje");
         // TODO code application logic here
     }
-    
+    private static void shtoMetoden(){
+        System.out.println("u thirr");
+    }
 }
